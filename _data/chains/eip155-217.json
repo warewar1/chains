@@ -9,6 +9,7 @@
     "symbol": "MCD",
     "decimals": 18
   },
+  "deprecated":true
   "infoURL": "https://siriusnet.io",
   "shortName": "SIN2",
   "chainId": 217,
